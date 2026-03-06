@@ -67,8 +67,13 @@ Author
 
 Anurag Utkarsh
 Cloud Engineer(Linux & Security) | DevOps Enthusiast
-<img width="404" height="190" alt="Screenshot 2026-03-06 173620" src="https://github.com/user-attachments/assets/bb40dc8e-6080-401f-8ec4-62fee884e802" />
-<img width="1166" height="666" alt="Screenshot 2026-03-06 173459" src="https://github.com/user-attachments/assets/fa8c58fe-39f9-43ce-aed5-0fe33203badc" />
-<img width="1157" height="636" alt="Screenshot 2026-03-06 173442" src="https://github.com/user-attachments/assets/14ced3e5-7e01-41ff-b9f5-a39a376409a7" />
-<img width="1108" height="603" alt="Screenshot 2026-03-06 180707" src="https://github.com/user-attachments/assets/b7f472ac-99ae-4020-80f1-ac48c99018e2" />
+
+
+<img width="1157" height="636" alt="Screenshot 2026-03-06 173442" src="https://github.com/user-attachments/assets/4fd36d54-62da-4631-b929-2f6ee21e07f9" />
+<img width="1166" height="666" alt="Screenshot 2026-03-06 173459" src="https://github.com/user-attachments/assets/3a1589c8-a91a-4144-8737-7005a8f48512" />
+<img width="404" height="190" alt="Screenshot 2026-03-06 173620" src="https://github.com/user-attachments/assets/8e937752-9335-45d4-bbb9-370d6b398fa9" />
+<img width="1108" height="603" alt="Screenshot 2026-03-06 180707" src="https://github.com/user-attachments/assets/e4476e38-4299-4c59-a494-8fff18b785d2" />
+<img width="1167" height="655" alt="Screenshot 2026-03-06 181125" src="https://github.com/user-attachments/assets/8813291c-9bb1-4014-8509-8dd7a91cd8de" />
+
+
 
